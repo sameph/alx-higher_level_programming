@@ -1,0 +1,7 @@
+0;276;0cclass Base:
+    __nb_objects = 0
+    def __init__(self, id=none):
+        if id not none:
+            self.nb_objects = nb_objects
+        else:
+            id = nb_objects + 
